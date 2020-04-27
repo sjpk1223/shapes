@@ -1,0 +1,1 @@
+Each level will present you with different shapes you must stack up and fit all given shapes into the screen. If you fail to fit all shapes or any shapes fall off the stack, you lose a life. Progress through each level and see how far you can go with 3 lives!
